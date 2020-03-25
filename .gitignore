@@ -1,0 +1,7 @@
+#Ignore everything
+*
+# But do not ignore these
+!.gitignore
+!LocalSettings.php
+!favicon.ico
+!*extensions/
